@@ -28,7 +28,7 @@ O trabalho foi desenvolvido através de pesquisas, elaboração de exercícios, 
 
 Em um primeiro momento, após uma reunião realizada entre o professor orientador (Prof. Pedro Lucas Luz) e os líderes de cada equipe, foram repassadas as informações e orientações do projeto de extensão.
 Após isso, o grupo se reuniu e decidiu criar um grupo no WhatsApp para debater sobre o projeto e suas atribuições.  
-<center><img src="img-relatorio/grupozap.PNG" width="400"><br><small>Inclusive, grupo extremamente profissional kkkk</small></center>
+<center><img src="img/grupozap.PNG" width="400"><br><small>Inclusive, grupo extremamente profissional kkkk</small></center>
   
 <br>
 <br>
@@ -60,6 +60,7 @@ Os demais integrantes do grupo leram os conteúdos da pesquisa para se aprofunda
 O slide foi criado a partir do roteiro do video, pelo Rafael Lopes, utilizando uma linguagem mais assertiva e direta, de fácil entendimento. Todo o processo de criação foi feito usando o Canva para estudantes.  
 Os exercícios e demonstrações em código, propostos por José Kauan, foram feitos baseados em exemplos da internet, e adaptados para um melhor entendimento didático.  
 Todo o processo de criação dos materiais foi revisado e aprovado pelos membros da equipe para uma melhor harmonia em relação ao vídeo, roteiro e slide.
+<center><img src="img/slide.PNG" width="800"><br></center>
 
 
 ---
@@ -79,7 +80,7 @@ Para a escrita do roteiro, foi usado como inspiração a dinâmica dos vídeos d
 
 Quando o roteiro foi finalizado, cada membro foi responsável por gravar sua participação individualmente, seguindo as falas e indicações feitas pelo editor.  
 Depois das gravações, os arquivos brutos foram enviados para a edição, onde foram feitos cortes de erros e momentos de silêncio, músicas de fundo foram adicionadas, textos, memes e trechos do slide feito pela equipe, tudo em busca de tornar o vídeo mais dinâmico e agradável possível.
-<center><img src="img-relatorio/edicao1.jpg" width="400"><br><small>Errou, errou meu chat gpt</small></center>
+<center><img src="img/edicao1.jpg" width="400"><br><small>Errou, errou meu chat gpt</small></center>
 
 ---
 
@@ -97,9 +98,9 @@ A principal dificuldade enfrentada foi a produção de um material original, que
 O GitHub foi a principal ferramenta utilizada para armazenar os materiais de pesquisa produzidos pelo grupo e garantir o bom versionamento do projeto.  
 O membro Pedro Vinicius ficou responsável por organizar o repositório contendo os arquivos produzidos e realizar os commits seguindo os padrões indicados na instrução da atividade.  
 O repositório foi organizado através de pastas destinadas a cada parte do trabalho, onde os arquivos foram adicionados de forma harmônica e coerente com sua função no projeto.  
-<center><img src="img-relatorio/repositorio.PNG" width="800"><br><small>organização das pastas do repositório (ainda não finalizado)</small></center><br>
+<center><img src="img/repositorio.PNG" width="800"><br><small>organização das pastas do repositório (ainda não finalizado)</small></center><br>
 Os commits foram sendo realizados conforme as produções iam ocorrendo, garantindo mais segurança ao trabalhar em passos futuros, e sendo possível visualizar as alterações feitas nos arquivos.
-<center><img src="img-relatorio/commits.PNG" width="800"><br><small>histórico de commits</small></center>
+<center><img src="img/commits.PNG" width="800"><br><small>histórico de commits</small></center>
 
 ---
 
@@ -107,34 +108,20 @@ Os commits foram sendo realizados conforme as produções iam ocorrendo, garanti
 # 5. Considerações Finais
 
 
-As tarefas propostas foram realizados com sucesso. Essa experiencia contribuiu para o aprofundamento de conhecimentos relacionados a logica de programacao e o desenvolvimento de habilidades relacionadas a colaboracao, comunicacao e resolucao de conflitos.  
-Ademais, foi constatada a importancia de compartilhar conhecimentos e aprendizados relacionados a tecnologia com a comunidade, de forma a democratizar o acesso aos mesmos.
+As tarefas propostas foram realizadas com sucesso. Essa experiência contribuiu para o aprofundamento de conhecimentos relacionados à lógica de programação e o desenvolvimento de habilidades relacionadas à colaboração, comunicação e resolução de conflitos.  
+Ademais, foi constatada a importância de compartilhar conhecimentos e aprendizados relacionados à tecnologia com a comunidade, de forma a democratizar o acesso aos mesmos.
 
 
 ---
 
-# 6. Evidências
+# 6. Evidências e Anexos
 
-## O que deve conter?
 
-Inserir ou anexar:
-
-* Capturas de tela das reuniões;
-* Capturas de tela dos commits;
-* Fotos ou prints da apresentação;
-* Link do repositório GitHub;
-* Link da gravação da live.
 
 | Evidência        | Link |
 | ---------------- | ---- |
-| GitHub           |      |
-| Slides           |      |
-| Live             |      |
-| Pasta de imagens |      |
+| GitHub           | https://github.com/pedrovinicius-dias/Operadores_Python     |
+| Video             | https://www.youtube.com/watch?v=5iMeWS0fa7E     |
+
 
 ---
-
-# 7. Anexos (Opcional)
-
-Inserir imagens, gráficos, prints de código ou qualquer outro material complementar que ajude a documentar a execução do projeto.
-
